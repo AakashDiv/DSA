@@ -1,0 +1,11 @@
+
+
+(1)  ============ Pivot index =============
+For those who are confusing related to Pivot index question from prev lecture:-
+there are 3 types of Pivot index in DSA each has different context, following -
+1. Pivot in Quick Sort: The pivot is central to the QuickSort algorithm, where it acts as a reference point for partitioning.
+2. Pivot in Rotated Sorted Arrays: e.g. In [4, 5, 6, 7, 0, 1, 2], the pivot is the smallest element (0) or the largest (7) where the sorted order breaks. (bhaiya reffering to this pivot in this lecture)
+3. Pivot Index (Prefix Sum Problems): A common algorithmic problem is finding the Pivot Index, defined as the index where the sum of elements to its left equals the sum of elements to its right. (homework question from prev. lecture)
+
+
+

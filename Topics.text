@@ -1,0 +1,220 @@
+
+// DSA Priority Order
+// 1. Arrays & Strings — 🔥🔥🔥 Highest Priority
+
+// Ye sabse strong karo.
+
+// Must know:
+
+// Traversal
+// Two Pointers
+// Sliding Window
+// Prefix Sum
+// Hashing / Frequency Map
+// Sorting
+// Binary Search
+// Kadane's Algorithm
+// Intervals
+// Matrix
+
+// Problems types:
+
+// Two Sum
+// Best Time to Buy/Sell Stock
+// Maximum Subarray
+// Merge Sorted Array
+// Remove Duplicates
+// Rotate Array
+// Product Except Self
+// 3Sum
+// Longest Substring
+// Merge Intervals
+
+// Target: ~25–30 problems
+
+// 2. Hashing — 🔥🔥🔥
+
+// Tum already frequency-map wale questions kar rahe ho.
+
+// Understand:
+
+// Map
+// Set
+// Frequency counting
+// Duplicate detection
+// Complement lookup
+// Unique occurrences
+
+// Typical problems:
+
+// Two Sum
+// Contains Duplicate
+// Valid Anagram
+// Group Anagrams
+// Intersection
+// Unique Occurrences
+// Longest Consecutive Sequence
+
+// Target: ~10–15 problems
+
+// 3. Binary Search — 🔥🔥🔥
+
+// Bahut important because interviewer complexity poochta hai.
+
+// Understand:
+
+// O(n) ❌
+// O(log n) ✅
+
+// Problems:
+
+// Binary Search
+// Search Insert Position
+// First/Last Position
+// Search Rotated Array
+// Find Minimum in Rotated Array
+
+// Target: ~8–10 problems
+
+// 4. Linked List — 🔥🔥
+
+// Must know:
+
+// Traversal
+// Insert/delete
+// Reverse
+// Fast & slow pointer
+// Cycle detection
+// Merge lists
+// Middle node
+
+// Problems:
+
+// Reverse Linked List
+// Middle of Linked List
+// Linked List Cycle
+// Merge Two Sorted Lists
+// Remove Nth Node
+
+// Target: ~8–10
+
+// 5. Stack & Queue — 🔥🔥
+
+// Understand:
+
+// Stack → LIFO
+// Queue → FIFO
+// Monotonic Stack basic idea
+
+// Problems:
+
+// Valid Parentheses
+// Min Stack
+// Daily Temperatures
+// Next Greater Element
+// Implement Queue/Stack
+
+// Target: ~8–10
+
+// 6. Trees / BST — 🔥🔥
+
+// Tum abhi yahan enter kar rahe ho.
+
+// Must know:
+
+// Binary Tree
+// BST
+// DFS
+// BFS
+// Recursion
+// Preorder
+// Inorder
+// Postorder
+// Level Order
+// Height/depth
+// Balanced tree
+
+// Important problems:
+
+// Maximum Depth
+// Invert Binary Tree
+// Same Tree
+// Level Order Traversal
+// Validate BST
+// Lowest Common Ancestor
+// Convert Sorted Array to BST
+
+// Target: ~10–15
+
+// 7. Recursion — 🔥🔥
+
+// Separate topic ki tarah nahi, Trees/Backtracking ke foundation ke liye.
+
+// Tumhe samajhna chahiye:
+
+// base case
+//      ↓
+// smaller problem
+//      ↓
+// recursive call
+//      ↓
+// return
+
+// Tumne #108 mein recursion successfully use kiya — that's good progress.
+
+// 8. Heap / Priority Queue — 🔥
+
+// Basic level enough initially.
+
+// Understand:
+
+// Min Heap
+// Max Heap
+// Top K problems
+
+// Problems:
+
+// Kth Largest Element
+// Top K Frequent Elements
+// Merge K Sorted Lists
+
+// Target: 4–6
+
+// 9. Graphs — 🔥
+
+// MNC interviews ke liye basic Graph zaroor karo.
+
+// Understand:
+
+// Graph representation
+// BFS
+// DFS
+// Visited
+// Connected Components
+// Cycle detection
+
+// Basic problems:
+
+// Number of Islands
+// Clone Graph
+// Flood Fill
+// Course Schedule
+
+// Target: 6–8
+
+// 10. Dynamic Programming — 🟡
+
+// Ye initially low priority rakho.
+
+// 3 months mein DP ke 50 questions karne ki zaroorat nahi.
+
+// Basic patterns:
+
+// 1D DP
+// Fibonacci-style
+// Climbing Stairs
+// House Robber
+// Coin Change
+// 0/1 Knapsack basic idea
+
+// Target: 5–8 good problems
